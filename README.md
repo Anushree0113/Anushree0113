@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Anushree0113
 - 👀 I’m interested in Software Developer role
+-  I work at Global IDs in Data Discovery Domain
 - 📫 How to reach me : anushreepaul0113@gmail.com
 
 <!---
