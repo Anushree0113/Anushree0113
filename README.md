@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Anushree
+# 👋 Hi there! I'm Anushree Paul
 A passionate Software Developer with **1.5 years** of experience at **Global IDs** in the **Data Discovery** domain. I specialize in building robust, scalable software solutions and work with a variety of technologies to enable efficient data discovery and management.
 
 ## 😀 About Me
