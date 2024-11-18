@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Anushree0113
-- 👀 I’m interested in Software Developer role
--  I work at Global IDs in Data Discovery Domain
-- 📫 How to reach me : anushreepaul0113@gmail.com
+👋 Hi there! I'm Anushree, a passionate Software Developer with 1.5 years of experience at Global IDs in the Data Discovery domain. I specialize in building robust, scalable software solutions and work with a variety of technologies to enable efficient data discovery and management.
 
-<!---
-Anushree0113/Anushree0113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+🔧 Role: Software Developer
+🌍 Company: Global IDs
+📅 Experience: 1.5 years in the Data Discovery domain
+🎯 Focus Areas: Data management, Data discovery tools, Software development
+📚 Technologies: Java, SQL, Data Integration, ETL processes, Cloud platforms, Microservices,Spring Boot
