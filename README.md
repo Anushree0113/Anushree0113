@@ -11,7 +11,7 @@ A passionate Software Developer with **1.5 years** of experience at **Global IDs
 
 🎯 **Focus Areas**: Data management, Data discovery tools, Software development
 
-📚 **Technologies**: Java, SQL, Data Integration, ETL processes, Cloud platforms, Microservices,Spring Boot,REST APIs, JSON, SQL Server, Oracle, Derby
+📚 **Technologies**: Java, SQL, Data Integration, ETL processes, Cloud platforms, Microservices,Spring Boot,REST APIs, SQL Server, Oracle, Derby
 
 
 ## 🛠️ My Work
