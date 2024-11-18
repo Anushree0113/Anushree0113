@@ -1,7 +1,7 @@
-# Anushree Paul
-👋 Hi there! I'm Anushree, a passionate Software Developer with **1.5 years** of experience at **Global IDs** in the **Data Discovery** domain. I specialize in building robust, scalable software solutions and work with a variety of technologies to enable efficient data discovery and management.
+# 👋 Hi there! I'm Anushree
+A passionate Software Developer with **1.5 years** of experience at **Global IDs** in the **Data Discovery** domain. I specialize in building robust, scalable software solutions and work with a variety of technologies to enable efficient data discovery and management.
 
-## About Me
+## 😀 About Me
 
 🔧 **Role**: Software Developer
 
@@ -13,4 +13,39 @@
 
 📚 **Technologies**: Java, SQL, Data Integration, ETL processes, Cloud platforms, Microservices,Spring Boot,REST APIs, JSON, SQL Server, Oracle, Derby
 
+
+## 🛠️ My Work
+
+My journey at Global IDs, currently as a Software Developer, is fueled by a passion for continuous learning and staying ahead of technology trends. With a **Master's degree in Computer Science** from **Calcutta University**, my expertise in **Core Java** and the **Spring Framework** forms the backbone of my technical acumen.Our team thrives on tackling challenging problems, and my role involves synchronizing project components to drive organizational growth. 
+
+Leveraging my certifications, including **Full Stack Web Development** and **Java Programming**,I contribute to developing and enhancing tools that help organizations discover, manage, and govern their data efficiently. My work includes:
+
+- Designing scalable solutions for **data integration** and **data governance**.
+- Implementing automation tools to streamline **data discovery** and classification processes.
+- Developing microservices and APIs to connect different systems in data environments.
+  
+
+
+## 🧑‍💻 Skills
+
+  - **Programming Languages** : Java , C++ , SQL
+    
+  - **Technologies**: Cloud (AWS, Azure), Docker, Microservices, RESTful APIs
+    
+  - **Data Tools**: Apache Kafka, ETL frameworks, IntelliJ , VSCode
+    
+  - **Version Control**: Git, GitHub, GitLab
+
+
+## 📝 Resume
+
 ### You can find my resume here : [Anushree_Paul_Resume.pdf](https://github.com/user-attachments/files/17800024/Anushree_Paul_Resume.pdf)
+
+## 📮 Connect with me
+
+**📧 Email** - [anushreepaul0113@gmail.com](mailto:anushreepaul0113@gmail.com)
+
+:round_pushpin: **LinkedIn** - [LinkedIn Profile](https://www.linkedin.com/in/anushree-paul9913/)
+
+## 
+If you're interested in collaborating, discussing tech, or just want to connect, don't hesitate to drop me a message! 😊
