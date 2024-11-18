@@ -46,7 +46,8 @@ Leveraging my certifications, including **Full Stack Web Development** and **Jav
 
 ## 📝 Resume
 
-### You can find my resume here : [Anushree_Paul_Resume.pdf](https://github.com/user-attachments/files/17800024/Anushree_Paul_Resume.pdf)
+### You can find my resume here : [Updated_CV.pdf](https://github.com/user-attachments/files/17800838/Updated_CV.pdf)
+
 
 ## 📮 Connect with me
 
