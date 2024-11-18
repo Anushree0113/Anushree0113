@@ -11,6 +11,6 @@
 
 🎯 **Focus Areas**: Data management, Data discovery tools, Software development
 
-📚 **Technologies**: Java, SQL, Data Integration, ETL processes, Cloud platforms, Microservices,Spring Boot
+📚 **Technologies**: Java, SQL, Data Integration, ETL processes, Cloud platforms, Microservices,Spring Boot,REST APIs, JSON, SQL Server, Oracle, Derby
 
 ### You can find my resume here : [Anushree_Paul_Resume.pdf](https://github.com/user-attachments/files/17800024/Anushree_Paul_Resume.pdf)
