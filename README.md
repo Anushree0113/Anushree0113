@@ -36,8 +36,6 @@ Leveraging my certifications, including **Full Stack Web Development** and **Jav
     
   - **Version Control**: Git, GitHub, GitLab
 
-  - 
-
 ### 🖥️ IDEs:
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
